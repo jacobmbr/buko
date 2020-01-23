@@ -8,7 +8,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="bashrc vimrc vim zshrc zshenv oh-my-zsh private scrotwm.conf Xresources"    # list of files/folders to symlink in homedir
+files="bashrc vimrc vim zshrc zshenv oh-my-zsh private scrotwm.conf Xresources tmux.conf"    # list of files/folders to symlink in homedir
 red='\033[0;31m'
 green='\033[0;32m'
 blue='\033[0;34m'
